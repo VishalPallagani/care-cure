@@ -36,9 +36,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-chiropractic:before { content: "\f100"; }
+/*.flaticon-chiropractic:before { content: "\f100"; }
 .flaticon-acupuncture:before { content: "\f101"; }
 .flaticon-electrotherapy:before { content: "\f102"; }
 .flaticon-examination:before { content: "\f103"; }
 .flaticon-lymph-nodes:before { content: "\f104"; }
-.flaticon-bone:before { content: "\f105"; }
+.flaticon-bone:before { content: "\f105"; }*/
+.flaticon-chiropractic:before { content: "\f100"; }
+.flaticon-sport:before { content: "\f101"; }
+.flaticon-pregnant:before { content: "\f102"; }
+.flaticon-old-man:before { content: "\f103"; }
+.flaticon-child:before { content: "\f104"; }
+.flaticon-brain:before { content: "\f105"; }
+.flaticon-friendship:before { content: "\f106"; }
+.flaticon-soccer-player:before { content: "\f107"; }
+.flaticon-heartbeat:before { content: "\f108"; }

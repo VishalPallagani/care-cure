@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 26/02/2020 05:30
+    Creation date: 20/04/2020 12:51
     */
 
     @font-face {
@@ -38,15 +38,21 @@
     }
 
     .flaticon-chiropractic:before { content: "\f100"; }
-.flaticon-acupuncture:before { content: "\f101"; }
-.flaticon-electrotherapy:before { content: "\f102"; }
-.flaticon-examination:before { content: "\f103"; }
-.flaticon-lymph-nodes:before { content: "\f104"; }
-.flaticon-bone:before { content: "\f105"; }
+.flaticon-sport:before { content: "\f101"; }
+.flaticon-pregnant:before { content: "\f102"; }
+.flaticon-old-man:before { content: "\f103"; }
+.flaticon-child:before { content: "\f104"; }
+.flaticon-brain:before { content: "\f105"; }
+.flaticon-friendship:before { content: "\f106"; }
+.flaticon-soccer-player:before { content: "\f107"; }
+.flaticon-heartbeat:before { content: "\f108"; }
     
     $font-Flaticon-chiropractic: "\f100";
-    $font-Flaticon-acupuncture: "\f101";
-    $font-Flaticon-electrotherapy: "\f102";
-    $font-Flaticon-examination: "\f103";
-    $font-Flaticon-lymph-nodes: "\f104";
-    $font-Flaticon-bone: "\f105";
+    $font-Flaticon-sport: "\f101";
+    $font-Flaticon-pregnant: "\f102";
+    $font-Flaticon-old-man: "\f103";
+    $font-Flaticon-child: "\f104";
+    $font-Flaticon-brain: "\f105";
+    $font-Flaticon-friendship: "\f106";
+    $font-Flaticon-soccer-player: "\f107";
+    $font-Flaticon-heartbeat: "\f108";
